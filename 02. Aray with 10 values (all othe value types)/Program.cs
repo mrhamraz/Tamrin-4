@@ -20,7 +20,7 @@ namespace _02._Aray_with_10_values__all_othe_value_types_
                 //aray[i] = Convert.ToChar(Console.ReadLine());
                 //aray[i] = Convert.ToDouble(Console.ReadLine());
 
-            foreach (string /* bool/char/double */ i in aray)  //print aray values
+            foreach (string /* bool/char/double */ i in aray)  //print aray values 
                 Console.WriteLine(i);
         }
     }
