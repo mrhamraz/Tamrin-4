@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_02._Aray_with_10_values__all_othe_value_types_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
