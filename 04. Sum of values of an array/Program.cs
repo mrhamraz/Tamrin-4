@@ -9,7 +9,7 @@ namespace _4._Sum_of_values_of_an_array
             Console.WriteLine("Enter size of the array: ");  //Reads size of the array
             int size = Convert.ToInt32(Console.ReadLine());
 
-            int[] array = new int[size];   //Create an array of four elements
+            int[] array = new int[size];   //Create an array
 
             Console.WriteLine($"Enter {size} members of Array: ");
 

@@ -6,7 +6,7 @@ namespace _3._Print_aray_values_reverse
     {
         static void Main(string[] args)
         {
-            int[] aray = new int[3];   //Create an array of four elements
+            int[] aray = new int[10];   //Create an array
 
             Console.WriteLine("Enter 10 numbers of Aray: ");
 

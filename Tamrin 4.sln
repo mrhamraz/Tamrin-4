@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Print aray values rever
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Sum of values of an array", "04. Sum of values of an array\04. Sum of values of an array.csproj", "{95DE4C56-D1DD-428F-BDAA-BEE8F1ED7B96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Copy array values to another array", "05. Copy array values to another array\05. Copy array values to another array.csproj", "{4438DF45-CCED-4FD4-AA89-7770A602EDFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{95DE4C56-D1DD-428F-BDAA-BEE8F1ED7B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95DE4C56-D1DD-428F-BDAA-BEE8F1ED7B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95DE4C56-D1DD-428F-BDAA-BEE8F1ED7B96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4438DF45-CCED-4FD4-AA89-7770A602EDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4438DF45-CCED-4FD4-AA89-7770A602EDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4438DF45-CCED-4FD4-AA89-7770A602EDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4438DF45-CCED-4FD4-AA89-7770A602EDFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

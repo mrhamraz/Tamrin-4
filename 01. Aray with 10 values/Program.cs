@@ -6,7 +6,7 @@ namespace _01._Aray_with_10_values
     {
         static void Main(string[] args)
         {
-            int[] aray = new int[10];   //Create an array of four elements
+            int[] aray = new int[10];   //Create an array
 
             Console.WriteLine("Enter 10 numbers of Aray: ");
 
