@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Aray with 10 values", "01. Aray with 10 values\01. Aray with 10 values.csproj", "{B81F5421-AC67-4B4B-AAF1-1C137DB1B438}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Array with 10 values", "01. Aray with 10 values\01. Array with 10 values.csproj", "{B81F5421-AC67-4B4B-AAF1-1C137DB1B438}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Aray with 10 values (all othe value types)", "02. Aray with 10 values (all othe value types)\02. Aray with 10 values (all othe value types).csproj", "{45506767-39F1-4FAC-AAAC-7001941C555B}"
 EndProject
@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Print aray values rever
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Sum of values of an array", "04. Sum of values of an array\04. Sum of values of an array.csproj", "{95DE4C56-D1DD-428F-BDAA-BEE8F1ED7B96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Copy array values to another array", "05. Copy array values to another array\05. Copy array values to another array.csproj", "{4438DF45-CCED-4FD4-AA89-7770A602EDFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Copy array values to another array", "05. Copy array values to another array\05. Copy array values to another array.csproj", "{4438DF45-CCED-4FD4-AA89-7770A602EDFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Print min and max values of an array", "06. Print min and max values of an array\06. Print min and max values of an array.csproj", "{F1B294A2-EA44-4884-B6E5-5282D7F6A4FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Print min and max values of an array", "06. Print min and max values of an array\06. Print min and max values of an array.csproj", "{F1B294A2-EA44-4884-B6E5-5282D7F6A4FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Average of array values", "07. Average of array values\07. Average of array values.csproj", "{8F21291E-E95B-4E0B-BD82-7DFADB9A16BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F1B294A2-EA44-4884-B6E5-5282D7F6A4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1B294A2-EA44-4884-B6E5-5282D7F6A4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1B294A2-EA44-4884-B6E5-5282D7F6A4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F21291E-E95B-4E0B-BD82-7DFADB9A16BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F21291E-E95B-4E0B-BD82-7DFADB9A16BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F21291E-E95B-4E0B-BD82-7DFADB9A16BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F21291E-E95B-4E0B-BD82-7DFADB9A16BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
