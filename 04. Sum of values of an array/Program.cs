@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _4._Sum_of_values_of_an_array
 {
@@ -14,14 +15,11 @@ namespace _4._Sum_of_values_of_an_array
             Console.WriteLine($"Enter {size} members of Array: ");
 
 
-            int sum = 0;
             for (int i = 0; i < array.Length; i++)   //get aray values from user and asign them
-            { 
+             
                 array[i] = Convert.ToInt32(Console.ReadLine());
-                sum += array[i];
-            }
 
-            Console.WriteLine($"sum is {sum}");
+            Console.WriteLine($"sum is {array.Sum()}");    //sum of values
             
         }
     }
