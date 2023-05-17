@@ -6,18 +6,19 @@ namespace _05._Copy_array_values_to_another_array
     {
         static void Main(string[] args)
         {
-            double[] aray1 = new double[3];   //Create an array
-            double[] aray2 = new double[3];
+            double[] array1 = new double[10];   //Create an array
+            //double[] array2 = new double[10];
 
 
             Console.WriteLine("Enter 10 numbers of Aray: ");
 
-            for (int i = 0; i < aray1.Length; i++)   //get array values from user and asign them
-                aray1[i] = Convert.ToDouble(Console.ReadLine());
+            for (int i = 0; i < array1.Length; i++)   //get array values from user and asign them
+                array1[i] = Convert.ToDouble(Console.ReadLine());
 
-            aray2 = aray1;  //copy an array to another
+            //array2 = array1;             //copy an array to another
+            double[] array2 = array1;
 
-            foreach (double i in aray2)  //print array values
+            foreach (double i in array2)  //print array values
                 Console.WriteLine(i);
 
 
