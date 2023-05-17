@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Print min and max value
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Average of array values", "07. Average of array values\07. Average of array values.csproj", "{8F21291E-E95B-4E0B-BD82-7DFADB9A16BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Print negative values of array", "08. Print negative values of array\08. Print negative values of array.csproj", "{EF8CE2C0-C3FF-4C05-9642-6EA11030F6DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8F21291E-E95B-4E0B-BD82-7DFADB9A16BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F21291E-E95B-4E0B-BD82-7DFADB9A16BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F21291E-E95B-4E0B-BD82-7DFADB9A16BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF8CE2C0-C3FF-4C05-9642-6EA11030F6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8CE2C0-C3FF-4C05-9642-6EA11030F6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8CE2C0-C3FF-4C05-9642-6EA11030F6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8CE2C0-C3FF-4C05-9642-6EA11030F6DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
