@@ -15,13 +15,20 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Copy array values to an
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Print min and max values of an array", "06. Print min and max values of an array\06. Print min and max values of an array.csproj", "{F1B294A2-EA44-4884-B6E5-5282D7F6A4FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Average of array values", "07. Average of array values\07. Average of array values.csproj", "{8F21291E-E95B-4E0B-BD82-7DFADB9A16BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Average of array values", "07. Average of array values\07. Average of array values.csproj", "{8F21291E-E95B-4E0B-BD82-7DFADB9A16BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Print negative values of array", "08. Print negative values of array\08. Print negative values of array.csproj", "{EF8CE2C0-C3FF-4C05-9642-6EA11030F6DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Print negative values of array", "08. Print negative values of array\08. Print negative values of array.csproj", "{EF8CE2C0-C3FF-4C05-9642-6EA11030F6DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Divide even or odd values of an array into two arrays", "09. Divide even or odd values of an array into two arrays\09. Divide even or odd values of an array into two arrays.csproj", "{BD56405C-3994-4335-B624-EA3EA949AA04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Divide even or odd values of an array into two arrays", "09. Divide even or odd values of an array into two arrays\09. Divide even or odd values of an array into two arrays.csproj", "{BD56405C-3994-4335-B624-EA3EA949AA04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Change array values with even indexes to zero", "10. Change array values with even indexes to zero\10. Change array values with even indexes to zero.csproj", "{C84A3A94-4E16-48A0-AEFE-4C20CBE18D86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Change array values with even indexes to zero", "10. Change array values with even indexes to zero\10. Change array values with even indexes to zero.csproj", "{C84A3A94-4E16-48A0-AEFE-4C20CBE18D86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Compare values of two arrays", "11. Compare values of two arrays\11. Compare values of two arrays.csproj", "{0DDD8F6E-4AEE-4CC8-B8DE-D88D4B16641F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1B8ACCEE-929F-4F3E-8187-945897F46B34}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +76,10 @@ Global
 		{C84A3A94-4E16-48A0-AEFE-4C20CBE18D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C84A3A94-4E16-48A0-AEFE-4C20CBE18D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C84A3A94-4E16-48A0-AEFE-4C20CBE18D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DDD8F6E-4AEE-4CC8-B8DE-D88D4B16641F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDD8F6E-4AEE-4CC8-B8DE-D88D4B16641F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDD8F6E-4AEE-4CC8-B8DE-D88D4B16641F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDD8F6E-4AEE-4CC8-B8DE-D88D4B16641F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
