@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_10._Change_array_values_with_even_indexes_to_zero</RootNamespace>
+  </PropertyGroup>
+
+</Project>
