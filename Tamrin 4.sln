@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Average of array values
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Print negative values of array", "08. Print negative values of array\08. Print negative values of array.csproj", "{EF8CE2C0-C3FF-4C05-9642-6EA11030F6DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Divide even or odd values of an array into two arrays", "09. Divide even or odd values of an array into two arrays\09. Divide even or odd values of an array into two arrays.csproj", "{BD56405C-3994-4335-B624-EA3EA949AA04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{EF8CE2C0-C3FF-4C05-9642-6EA11030F6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF8CE2C0-C3FF-4C05-9642-6EA11030F6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF8CE2C0-C3FF-4C05-9642-6EA11030F6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD56405C-3994-4335-B624-EA3EA949AA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD56405C-3994-4335-B624-EA3EA949AA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD56405C-3994-4335-B624-EA3EA949AA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD56405C-3994-4335-B624-EA3EA949AA04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
