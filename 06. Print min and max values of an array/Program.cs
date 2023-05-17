@@ -7,12 +7,9 @@ namespace _06._Print_min_and_max_values_of_an_array
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter size of the array: ");  //Reads size of the array
-            int size = Convert.ToInt32(Console.ReadLine());
+            int[] array = new int[10];   //Create an array
 
-            int[] array = new int[size];   //Create an array
-
-            Console.WriteLine($"Enter {size} members of Array: ");
+            Console.WriteLine("Enter 10 numbers of Aray: ");
 
             for (int i = 0; i < array.Length; i++)   //get aray values from user and asign them
                 array[i] = Convert.ToInt32(Console.ReadLine());
