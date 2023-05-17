@@ -13,7 +13,7 @@ namespace _09._Divide_even_or_odd_values_of_an_array_into_two_arrays
             for (int i = 0; i < array.Length; i++)   //get array values from user and asign them
                 array[i] = Convert.ToInt32(Console.ReadLine());
 
-            int[] even = new int[10];   //Create even an odd arrays
+            int[] even = new int[10];   //Create even and odd arrays
             int[] odd = new int[10];
 
             for (int i = 0; i < array.Length; i++)
@@ -40,6 +40,12 @@ namespace _09._Divide_even_or_odd_values_of_an_array_into_two_arrays
                 if (odd[i] == 0)                   //print values (except zero values)
                     continue;
              Console.Write("\t" + odd[i]);
+
+
+
+                /*
+                   Another solution is to count the even and odd values and assign even/odd arrays with exact length
+                */
             }
         }
     }
