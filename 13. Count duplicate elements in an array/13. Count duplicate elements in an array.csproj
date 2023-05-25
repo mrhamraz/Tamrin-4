@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_13._Count_duplicate_elements_in_an_array</RootNamespace>
+  </PropertyGroup>
+
+</Project>

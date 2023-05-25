@@ -30,7 +30,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Merge two arrays and omit duplicates", "12. Merge two arrays and omit duplicates\12. Merge two arrays and omit duplicates.csproj", "{9DAB9363-EF42-46DE-AE7C-F15BA06B669D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. Merge two arrays and omit duplicates", "12. Merge two arrays and omit duplicates\12. Merge two arrays and omit duplicates.csproj", "{9DAB9363-EF42-46DE-AE7C-F15BA06B669D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Count duplicate elements in an array", "13. Count duplicate elements in an array\13. Count duplicate elements in an array.csproj", "{1115C25D-9E49-4117-816A-34BD4F4EA2F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -86,6 +88,10 @@ Global
 		{9DAB9363-EF42-46DE-AE7C-F15BA06B669D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DAB9363-EF42-46DE-AE7C-F15BA06B669D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DAB9363-EF42-46DE-AE7C-F15BA06B669D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1115C25D-9E49-4117-816A-34BD4F4EA2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1115C25D-9E49-4117-816A-34BD4F4EA2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1115C25D-9E49-4117-816A-34BD4F4EA2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1115C25D-9E49-4117-816A-34BD4F4EA2F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
